@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Islam",
+    "type": "Pantheon",
+    "uniques": [
+      "[+1 Faith] from [Desert] tiles"
+    ]
+  }
+]
