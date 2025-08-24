@@ -1,5 +1,5 @@
 {
-  "name": "Grand Mosque",
+  "name": "Mosque",
   "uniqueTo": "Arabia",
   "replaces": "Shrine",
   "faith": 5,
@@ -10,7 +10,7 @@
   "portrait": "Mosque.png"
 },
 {
-  "name": "Jami Mosque",
+  "name": "Big Mosque",
   "uniqueTo": "Arabia",
   "replaces": "Temple",
   "faith": 8,
@@ -20,7 +20,7 @@
   "portrait": "Mosque.png"
 },
 {
-  "name": "Great Mosque of the Ummah",
+  "name": "Dār al-Iftā",
   "uniqueTo": "Arabia",
   "replaces": "Grand Temple",
   "isNationalWonder": true,
